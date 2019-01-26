@@ -16,6 +16,7 @@ const NavBar = () => {
       >
         Movies
       </NavLink>
+      
     </div>
   );
 }
